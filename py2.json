@@ -586,34 +586,4 @@
             ]
         }
     ],
-    "lives": [
-        {
-            "name": "MY live-catvod",
-            "type": "0",
-            "ua": "okhttp/3.15",
-            "url": "https://live.catvod.com/tv.m3u"
-        },
-        {
-            "name": "MY live-catvod-local",
-            "type": "0",
-            "ua": "okhttp/3.15",
-            "url": "http://127.0.0.1:9978/file/lives/Live-catvod.txt"
-        },
-        {
-            "name": "MQiTV",
-            "api": "csp_MQiTV",
-            "jar": "https://slink.ltd/https://raw.githubusercontent.com/sqspot/tac/refs/heads/main/jar/fmMQiTV.jar",
-            "ext": "https://59.125.210.231:4433",
-            "playerType": 1,
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
-        },
-        {
-            "name": "肥羊国内直播",
-            "type": 3,
-            "api": "csp_Feiyang",
-            "url": "tv.m3u",
-            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lystv/fmapp/ok/apk/allinone/v7/allinone;md5;https://mirror.ghproxy.com/https://raw.githubusercontent.com/lystv/fmapp/ok/apk/allinone/v7/md5",
-            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
-        }
-    ]
 }
