@@ -7,3 +7,8 @@
 松2,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/89.ts
 松3,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/90.ts
 香蕉,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/117.ts
+松視1台(台版),http://kds.livemoyu.dpdns.org/cr/proxy.php?token=3f4d33beef6d97a115f7034bf30c3f89&expires=1780399024
+松視2台(台版),http://kds.livemoyu.dpdns.org/cr/proxy.php?token=d554a1d1aaea0a9df3e5f4f07b8e9821&expires=1780399024
+松視3台(台版),http://kds.livemoyu.dpdns.org/cr/proxy.php?token=c0ae67f5f4540510ba2ebed44bcb0e7c&expires=1780399024
+惊艳台(台版),http://kds.livemoyu.dpdns.org/cr/proxy.php?token=f8316c53ce7add3da3d2eee5c015b92b&expires=1780399024
+潘朵拉完美(台版),http://kds.livemoyu.dpdns.org/cr/proxy.php?token=47f2fbcee402711592d2501bcfd3638d&expires=1780399024
