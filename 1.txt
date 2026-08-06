@@ -115,48 +115,6 @@ https://z3.ubtvfans.com/live/rx4/3100/81fe7d0e042652df32f7570cf7671df0/index.m3u
 https://z3.ubtvfans.com/live/rx4/3102/6ad841187b9781f13909693dac08186b/index.m3u8
 #EXTINF:-1 group-title="PRIVADO",jgirl
 https://z3.ubtvfans.com/live/rx5/3151/8b2b585365f9d90200c61f86dd76385d/index.m3u8
-#EXTINF:-1 group-title="PRIVADO",苍井空
-https://z3.ubtvfans.com/live/rx5/3154/e69148d5bbcc6f22eed89add60d7e9d1/index.m3u8
-#EXTINF:-1 group-title="PRIVADO",金丝雀
-https://z3.ubtvfans.com/live/rx4/3155/195b4c966bce260e256f90cc97547976/index.m3u8
-#EXTINF:-1 group-title="PRIVADO",FC2PPV 1
-https://z3.ubtvfans.com/live/rx1/3156/8848431db6d6b5e7dff4a32da3d749c9/index.m3u8
-#EXTINF:-1 group-title="PRIVADO",中字有码
-https://z3.ubtvfans.com/live/rx5/3157/8b65ae41bb9d51b1c21f81cb71c05b8c/index.m3u8
-#EXTINF:-1 group-title="PRIVADO",波多野结衣
-https://z3.ubtvfans.com/live/rx4/3158/c380ba6805c063bf01a758dac2c2cfa8/index.m3u8
-#EXTINF:-1 group-title="PRIVADO",猫先生
-https://z3.ubtvfans.com/live/rx5/3161/303fd4cabb41fbf7193947b6d5e79036/index.m3u8
-#EXTINF:-1 group-title="PRIVADO",上原亜衣
-https://z3.ubtvfans.com/live/rx4/3162/0f8a2fd886d0700759cd201f528085cb/index.m3u8
-#EXTINF:-1 group-title="PRIVADO",天堂素人約啪
-https://z3.ubtvfans.com/live/rx4/3164/60494dc98eec6d6677c6f8fae113957c/index.m3u8
-#EXTINF:-1 group-title="PRIVADO",天美
-https://z3.ubtvfans.com/live/rx5/3171/f42d5d165dadf008b01e7ee825867f41/index.m3u8
-#EXTINF:-1 group-title="PRIVADO",91短视频
-https://z3.ubtvfans.com/live/rx4/3172/d072c9162a60525dab8cf99c8201ef8c/index.m3u8
-#EXTINF:-1 group-title="PRIVADO",午夜寻花
-https://z3.ubtvfans.com/live/rx4/3180/ac81fb56a0aeafbee5ab3408e23d567a/index.m3u8
-#EXTINF:-1 group-title="PRIVADO",小宝寻花
-https://z3.ubtvfans.com/live/rx1/3181/307b14451a7968446223d0ccbffa22b8/index.m3u8
-#EXTINF:-1 group-title="PRIVADO",麻豆大番
-https://z3.ubtvfans.com/live/rx1/3184/d7ec9e74daa6ffab755743705cf460eb/index.m3u8
-#EXTINF:-1 group-title="PRIVADO",91沈先生
-https://z3.ubtvfans.com/live/rx1/3185/1cc03bdef8e657335cf8087d59e04228/index.m3u8
-#EXTINF:-1 group-title="PRIVADO",鸭总侦探
-https://z3.ubtvfans.com/live/rx2/3186/c6750a7ac944005586876692112f1856/index.m3u8
-#EXTINF:-1 group-title="PRIVADO",中字有码3
-https://z3.ubtvfans.com/live/rx2/3187/b488f3be5ece2068c3579b8b37afae9a/index.m3u8
-#EXTINF:-1 group-title="PRIVADO",麻豆
-https://z3.ubtvfans.com/live/rx1/3188/a18cb112b8da206c050b76593d115a99/index.m3u8
-#EXTINF:-1 group-title="PRIVADO",麻豆外番
-https://z3.ubtvfans.com/live/rx4/3189/2127a42b885dafbe1d1eba979e3dbe60/index.m3u8
-#EXTINF:-1 group-title="PRIVADO",无码破解
-https://z3.ubtvfans.com/live/rx4/3190/da53f5b1bd04b58068c25a0b201c6c6f/index.m3u8
-#EXTINF:-1 group-title="PRIVADO",韩国三级 1
-https://z3.ubtvfans.com/live/rx5/3193/4ca82b148c5599e6a5407bd3bebfa97c/index.m3u8
-#EXTINF:-1 group-title="PRIVADO",韩国三级 2
-https://z3.ubtvfans.com/live/rx1/3194/649809263cb13995d002d300ff7d9901/index.m3u8
 #EXTINF:-1 group-title="PRIVADO" tvg-id="456842" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/Banana.png",香蕉台(125)
 http://125.227.210.55:1009/VideoInput/play.ts
 #EXTINF:-1 group-title="PRIVADO" tvg-logo="https://www.ourshdtv.com/static/index/images/logo/logo_727_346.png",奧視2台(125)
