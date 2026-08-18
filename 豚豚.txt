@@ -833,12 +833,6 @@
       "api": "https://ghfast.top/https://raw.githubusercontent.com/uuy988/fgh998/refs/heads/main/py/有声骚麦🔞.py"
     },
     {
-      "key": "UAA有声",
-      "name": "🐬UAA有声.py｜🔞",
-      "type": 3,
-      "api": "https://ghfast.top/https://github.com/ge6bu6/1/blob/main/PY/uaa有声.py"
-    },
-    {
       "key": "韩剧巴士",
       "name": "🐬韩剧巴士.py🔞",
       "type": 3,
