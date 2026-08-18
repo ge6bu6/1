@@ -647,12 +647,6 @@
       "api": "https://ghfast.top/https://raw.githubusercontent.com/uuy988/fgh998/refs/heads/main/py/51短剧🔞TG @hshsjk9.py"
     },
     {
-      "key": "一抖阁",
-      "name": "🐬一抖阁.py(羊壳观看)｜🔞",
-      "type": 3,
-      "api": "https://ghfast.top/https://raw.githubusercontent.com/uuy988/fgh998/refs/heads/main/py/一抖阁🔞.py"
-    },
-    {
       "key": "狂飙短剧",
       "name": "🐬狂飙短剧.py｜🔞",
       "type": 3,
@@ -839,6 +833,12 @@
       "api": "https://ghfast.top/https://raw.githubusercontent.com/uuy988/fgh998/refs/heads/main/py/有声骚麦🔞.py"
     },
     {
+      "key": "UAA有声",
+      "name": "🐬UAA有声.py｜🔞",
+      "type": 3,
+      "api": "https://ghfast.top/https://github.com/ge6bu6/1/blob/main/PY/uaa有声.py"
+    },
+    {
       "key": "韩剧巴士",
       "name": "🐬韩剧巴士.py🔞",
       "type": 3,
@@ -849,66 +849,6 @@
       "name": "🐬艾旦影视.py｜🔞",
       "type": 3,
       "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/艾旦影视🔞.py"
-    },
-    {
-      "key": "mtvm",
-      "name": "🐬蜜桃视频.py(羊壳观看)｜🔞",
-      "type": 3,
-      "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/蜜桃视频.py"
-    },
-    {
-      "key": "午夜福利",
-      "name": "🐬午夜福利.py(羊壳观看)｜🔞",
-      "type": 3,
-      "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/午夜福利羊壳版.py"
-    },
-    {
-      "key": "pmvhaven",
-      "name": "🐬pmvhaven.py(羊壳观看)｜🔞",
-      "type": 3,
-      "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/pmvhaven🔞.py"
-    },
-    {
-      "key": "JAVMove",
-      "name": "🐬JAVMove.py(羊壳观看)｜🔞",
-      "type": 3,
-      "api": "https://ghfast.top/https://raw.githubusercontent.com/uuy988/fgh998/refs/heads/main/py/JAVMove🔞.py"
-    },
-    {
-      "key": "迷妹网",
-      "name": "🐬迷妹网.py(羊壳观看)｜🔞",
-      "type": 3,
-      "api": "https://ghfast.top/https://raw.githubusercontent.com/uuy988/fgh998/refs/heads/main/py/迷妹网🔞.py"
-    },
-    {
-      "key": "Javbunny",
-      "name": "🐬Javbunny.py(羊壳观看)｜🔞",
-      "type": 3,
-      "api": "https://ghfast.top/https://raw.githubusercontent.com/uuy988/fgh998/refs/heads/main/py/Javbunny🔞.py"
-    },
-    {
-      "key": "paradisehill",
-      "name": "🐬paradisehill.py(羊壳观看)｜🔞",
-      "type": 3,
-      "api": "https://ghfast.top/https://raw.githubusercontent.com/uuy988/fgh998/refs/heads/main/py/paradisehill🔞.py"
-    },
-    {
-      "key": "果冻传媒",
-      "name": "🐬果冻传媒.py(羊壳观看)｜🔞",
-      "type": 3,
-      "api": "https://ghfast.top/https://raw.githubusercontent.com/uuy988/fgh998/refs/heads/main/py/果冻传媒🔞TG @hshsjk9.py"
-    },
-    {
-      "key": "okxxx",
-      "name": "🐬okxxx.py(羊壳观看)｜🔞",
-      "type": 3,
-      "api": "https://ghfast.top/https://raw.githubusercontent.com/uuy988/fgh998/refs/heads/main/py/okxxx🔞TG @hshsjk9.py"
-    },
-    {
-      "key": "ThumbzillaTop",
-      "name": "🐬ThumbzillaTop.py(羊壳观看)｜🔞",
-      "type": 3,
-      "api": "https://ghfast.top/https://raw.githubusercontent.com/uuy988/fgh998/refs/heads/main/py/ThumbzillaTop🔞TG @hshsjk9.py"
     },
     {
       "key": "小涩界",
