@@ -44,6 +44,24 @@ JStar,https://z3.ubtvfans.com/live/rx3/2909/7ea5f8d0bef36a6a3503e2d148873d07/ind
 彩虹电影(免翻),http://atryffad.usa3.345123.xyz/jrw.php?id=Rainbowmovie
 Happy(免翻),http://atryffad.usa3.345123.xyz/jrw.php?id=HappyHD
 奧視2,http://125.227.210.55:3031/VideoInput/play.ts
+松视1,http://104.166.141.237/pull-f5.flive.douyincdn.com/live/26651aff22ab03202ee2cf8706f29d66.flv
+松视2,http://104.166.141.237/pull-f5.flive.douyincdn.com/live/5063c1703bf14a26af237f4826491342.flv
+松视3,http://104.166.141.237/pull-f5.flive.douyincdn.com/live/632e432ef006308c746c0af269faea68.flv
+惊艳台,http://104.166.141.237/pull-f5.flive.douyincdn.com/live/dd8b76dac6d32e74f343bcf9a5507a21.flv
+香蕉台,http://104.166.141.237/pull-f5.flive.douyincdn.com/live/d93c27034b45514f61784e01a018dd7e.flv
+彩虹e,http://104.166.141.237/pull-f5.flive.douyincdn.com/live/47aa7082df1edc96d3f311152444db93.flv
+彩虹K,http://154.94.104.2/pull-f5.flive.douyincdn.com/live/90a1479914f84c2cd0b9ea01d639716a.flv
+彩虹电影,http://104.166.141.237/pull-f5.flive.douyincdn.com/live/eb2b3c711280dad702cfb60b53902f5f.flv
+彩虹R频道,http://154.94.104.2/pull-f5.flive.douyincdn.com/live/7fb541d6aee0e3a78b998de469cc281e.flv
+潘朵啦完美,http://104.166.141.237/pull-f5.flive.douyincdn.com/live/65a9a767b12de15ce499c3510de7e73a.flv
+潘朵 啦完美,http://154.94.104.4/pull-f5.flive.douyincdn.com/live/c143e10a8b05b27261ebd901a77671de.flv
+潘朵拉粉红台,http://154.94.104.4/pull-f5.flive.douyincdn.com/live/57fa634c73253eeba08252e2fd5684b8.flv
+极限电影,http://104.166.141.237/pull-f5.flive.douyincdn.com/live/90c1c5b29f1b43e06d30343284b39bef.flv
+极限 电影,http://154.94.104.4/pull-f5.flive.douyincdn.com/live/4eab049edfa46dbc255973dea550215d.flv
+HOT,http://154.94.104.5/pull-f5.flive.douyincdn.com/live/a45fb7948350122fb9ac602f0e140ebb.flv
+Happy,http://104.166.141.237/pull-f5.flive.douyincdn.com/live/5ca8f278f4002502e9ff2f123ec77d94.flv
+Hiplay,http://154.94.104.5/pull-f5.flive.douyincdn.com/live/e657fe94b5937bc4efdca0eeadbd1297.flv
+
 
 CARAC1,http://edge14.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
 CARAC5,https://edge14.vedge.infomaniak.com/livecast/ik:carac5/playlist.m3u8
