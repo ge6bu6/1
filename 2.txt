@@ -80,6 +80,19 @@ HOT,http://154.94.104.5/pull-f5.flive.douyincdn.com/live/8cef75c0e70f2221d0e5272
 Happy,http://104.166.141.237/pull-f5.flive.douyincdn.com/live/ec3a13d242653fec2166d0d9d4d120ce.flv
 Hiplay,http://154.94.104.5/pull-f5.flive.douyincdn.com/live/9f41bc9787c72af0a00fa547419a410a.flv
 
+彩虹R,http://58.99.33.2:1935/liveedge2/TnIsFYAs_408_1/chunklist_w114642605.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+松視1台,http://58.99.33.2:1935/liveedge2/TnIsFYAs_405_1/chunklist_w2097694717.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&=&dr=123&dt=&cust_type=NE
+松視2台,http://58.99.33.2:1935/liveedge2/TnIsFYAs_406_1/chunklist_w1350191092.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+松視3台,http://58.99.33.2:1935/liveedge2/TnIsFYAs_407_1/chunklist_w452892769.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+松視4台,http://58.99.33.2:1935/liveedge2/TnIsFYAs_404_1/chunklist_w1221017520.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+玩家,http://58.99.33.2:1935/liveedge2/TnIsFYAs_401_1/chunklist_w452892769.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+happy,http://58.99.33.2:1935/liveedge2/TnIsFYAs_402_1/chunklist_w452892769.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+HOT,http://58.99.33.2:1935/liveedge2/TnIsFYAs_403_1/chunklist_w452892769.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+乐活,http://58.99.33.2:1935/liveedge2/TnIsFYAs_410_1/chunklist_w452892769.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+潘多拉完美,http://58.99.33.2:1935/liveedge2/TnIsFYAs_411_1/chunklist_w452892769.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+潘多拉粉红,http://58.99.33.2:1935/liveedge2/TnIsFYAs_412_1/chunklist_w452892769.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+惊艳电影台,http://58.99.33.2:1935/liveedge2/TnIsFYAs_413_1/chunklist_w452892769.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+香蕉台,http://58.99.33.2:1935/liveedge2/TnIsFYAs_414_1/chunklist_w452892769.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
 
 CARAC1,http://edge14.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
 CARAC5,https://edge14.vedge.infomaniak.com/livecast/ik:carac5/playlist.m3u8
