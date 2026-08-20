@@ -62,6 +62,23 @@ Happy(免翻),http://atryffad.usa3.345123.xyz/jrw.php?id=HappyHD
 HOT,http://154.94.104.5/pull-f5.flive.douyincdn.com/live/a45fb7948350122fb9ac602f0e140ebb.flv
 Happy,http://104.166.141.237/pull-f5.flive.douyincdn.com/live/5ca8f278f4002502e9ff2f123ec77d94.flv
 Hiplay,http://154.94.104.5/pull-f5.flive.douyincdn.com/live/e657fe94b5937bc4efdca0eeadbd1297.flv
+松视1,http://104.166.141.237/pull-f5.flive.douyincdn.com/live/e9c4ae843a739515b56e9f4f69f186d3.flv
+松视2,http://104.166.141.237/pull-f5.flive.douyincdn.com/live/d16d86c2ce26b214ddb0d4108e5c5761.flv
+松视3,http://104.166.141.237/pull-f5.flive.douyincdn.com/live/6975771971729eb4cfc67f74a0b0a716.flv
+惊艳台,http://104.166.141.237/pull-f5.flive.douyincdn.com/live/ab0fb6448078f3c881006d866da64852.flv
+香蕉台,http://104.166.141.237/pull-f5.flive.douyincdn.com/live/75d17934aae37a7cbf72a3bf03d41fd6.flv
+彩虹e,http://104.166.141.237/pull-f5.flive.douyincdn.com/live/6204db836ec42c60cd7c077aee402898.flv
+彩虹K,http://154.94.104.2/pull-f5.flive.douyincdn.com/live/e798ae4376ce344cc4a294f666270f5a.flv
+彩虹电影,http://104.166.141.237/pull-f5.flive.douyincdn.com/live/c85746d06c48e19ce15140b22ba85586.flv
+彩虹R频道,http://154.94.104.2/pull-f5.flive.douyincdn.com/live/1b0eb1938bd35289c2303dfd38bb2a36.flv
+潘朵啦完美,http://104.166.141.237/pull-f5.flive.douyincdn.com/live/68d6fb485cf49bc2355589880177a773.flv
+Pandora Perfect,http://154.94.104.4/pull-f5.flive.douyincdn.com/live/4ad48b0e1aaf20babeba1f1a6f328959.flv
+潘朵拉粉红台,http://154.94.104.4/pull-f5.flive.douyincdn.com/live/22bf844c8f20002b7571599cf409ed58.flv
+极限电影,http://104.166.141.237/pull-f5.flive.douyincdn.com/live/d824155a024da0ab36b5be24b5977637.flv
+Jstar,http://154.94.104.4/pull-f5.flive.douyincdn.com/live/f41c265b4bf13ef0581c6ffcea04c4eb.flv
+HOT,http://154.94.104.5/pull-f5.flive.douyincdn.com/live/8cef75c0e70f2221d0e52729838727dc.flv
+Happy,http://104.166.141.237/pull-f5.flive.douyincdn.com/live/ec3a13d242653fec2166d0d9d4d120ce.flv
+Hiplay,http://154.94.104.5/pull-f5.flive.douyincdn.com/live/9f41bc9787c72af0a00fa547419a410a.flv
 
 
 CARAC1,http://edge14.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
