@@ -159,39 +159,3 @@ http://88.212.7.11/live/test_leo_hd_hevc/playlist.m3u8
 http://88.212.7.11/live/test_realitykings_sd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/EroXXX.svg/revision/latest?cb=20191216100624" group-title="国际",Eroxxx
 http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="松视1" tvg-name="松视1" tvg-logo="" group-title="",松视1
-http://104.166.141.237/pull-f5.flive.douyincdn.com/live/cef2d1e5c2a8c15c528590ca0beb780d.flv
-#EXTINF:-1 tvg-id="松视2" tvg-name="松视2" tvg-logo="" group-title="",松视2
-http://104.166.141.237/pull-f5.flive.douyincdn.com/live/f40695e255724f9c1720e74d7b77cf5b.flv
-#EXTINF:-1 tvg-id="松视3" tvg-name="松视3" tvg-logo="" group-title="",松视3
-http://104.166.141.237/pull-f5.flive.douyincdn.com/live/41bde85321c115313566790c82019d47.flv
-#EXTINF:-1 tvg-id="惊艳台" tvg-name="惊艳台" tvg-logo="" group-title="",惊艳台
-http://104.166.141.237/pull-f5.flive.douyincdn.com/live/b0ec593e9a9a05114d4a89647a1e5666.flv
-#EXTINF:-1 tvg-id="香蕉台" tvg-name="香蕉台" tvg-logo="" group-title="",香蕉台
-http://104.166.141.237/pull-f5.flive.douyincdn.com/live/fe702ec411838c42bbd48f04417b7f6a.flv
-#EXTINF:-1 tvg-id="彩虹e" tvg-name="彩虹e" tvg-logo="" group-title="",彩虹e
-http://104.166.141.237/pull-f5.flive.douyincdn.com/live/54ae8ca8f98ad39bfd5e654fbd873534.flv
-#EXTINF:-1 tvg-id="彩虹K" tvg-name="彩虹K" tvg-logo="" group-title="",彩虹K
-http://154.94.104.2/pull-f5.flive.douyincdn.com/live/f708a834467e6121f04ec1377c89556d.flv
-#EXTINF:-1 tvg-id="彩虹电影" tvg-name="彩虹电影" tvg-logo="" group-title="",彩虹电影
-http://104.166.141.237/pull-f5.flive.douyincdn.com/live/ff79e155585c2f5e0d8cc506c731de21.flv
-#EXTINF:-1 tvg-id="彩虹R频道" tvg-name="彩虹R频道" tvg-logo="" group-title="",彩虹R频道
-http://154.94.104.2/pull-f5.flive.douyincdn.com/live/03871e19a8f1e09fc5399a1b01b895bd.flv
-#EXTINF:-1 tvg-id="潘朵啦完美" tvg-name="潘朵啦完美" tvg-logo="" group-title="",潘朵啦完美
-http://104.166.141.237/pull-f5.flive.douyincdn.com/live/c04a826a0031b47de3de2cd1a1d0118f.flv
-#EXTINF:-1 tvg-id="Pandora Perfect" tvg-name="Pandora Perfect" tvg-logo="" group-title="",Pandora Perfect
-http://154.94.104.4/pull-f5.flive.douyincdn.com/live/c93c3741acab7571f9bc90be31e92c17.flv
-#EXTINF:-1 tvg-id="潘朵拉粉红台" tvg-name="潘朵拉粉红台" tvg-logo="" group-title="",潘朵拉粉红台
-http://154.94.104.4/pull-f5.flive.douyincdn.com/live/4d08d3f882f7113d8f39c1ac327a7506.flv
-#EXTINF:-1 tvg-id="极限电影" tvg-name="极限电影" tvg-logo="" group-title="",极限电影
-http://104.166.141.237/pull-f5.flive.douyincdn.com/live/516899dde0d47f8fb9f6fc256025bdf9.flv
-#EXTINF:-1 tvg-id="Jstar" tvg-name="Jstar" tvg-logo="" group-title="",Jstar
-http://154.94.104.4/pull-f5.flive.douyincdn.com/live/b908148e4396fba581e34f3f4ad59a4e.flv
-#EXTINF:-1 tvg-id="HOT" tvg-name="HOT" tvg-logo="" group-title="",HOT
-http://154.94.104.5/pull-f5.flive.douyincdn.com/live/7aaec961b6ac3fa3918c49a65481eb11.flv
-#EXTINF:-1 tvg-id="Happy" tvg-name="Happy" tvg-logo="" group-title="",Happy
-http://104.166.141.237/pull-f5.flive.douyincdn.com/live/4c66ce8dd8252eff2d50ad2a69eeab8a.flv
-#EXTINF:-1 tvg-id="Hiplay" tvg-name="Hiplay" tvg-logo="" group-title="",Hiplay
-http://154.94.104.5/pull-f5.flive.douyincdn.com/live/def0a40a731d6b39c6d6479d42887e53.flv
