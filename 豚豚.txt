@@ -2442,7 +2442,7 @@
     },
 {
       "name": "2",
-      "type": 1,
+      "type": 0,
       "ua": "okhttp",
       "url": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/2.txt"
     },
