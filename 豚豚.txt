@@ -1,7 +1,7 @@
 {
   "spider": "",
   "wallpaper": "http://tool.teyonds.com/api",
-  "warningText": "资源来自网络",
+  "warningText": "资源来自网络1",
   "sites": [
     {
       "key": "MGtv",
