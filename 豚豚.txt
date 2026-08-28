@@ -1,7 +1,7 @@
 {
   "spider": "",
   "wallpaper": "http://tool.teyonds.com/api",
-  "warningText": "资源来自网络1",
+  "warningText": "资源来自网络",
   "sites": [
     {
       "key": "MGtv",
@@ -2438,7 +2438,7 @@
       "name": "1",
       "type": 0,
       "url": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/1.txt"
-    },
+    },
 {
       "name": "69",
       "type": 0,
@@ -2458,11 +2458,6 @@
       "name": "黄豆短剧",
       "type": 0,
       "url": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/file/黄豆短剧.m3u"
-    },
-{
-      "name": "myrutv",
-      "type": 0,
-      "url": "http://pl.myrutv.ru/abf8c80d/be273629/tv.m3u"
     },
       ],
   "ijk": [
