@@ -2441,12 +2441,6 @@
       "url": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/1.txt"
     },
 {
-      "name": "2",
-      "type": 0,
-      "ua": "okhttp",
-      "url": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/2.txt"
-    },
-{
       "name": "69",
       "type": 0,
       "ua": "okhttp",
