@@ -2439,49 +2439,49 @@
       "type": 0,
       "ua": "okhttp",
       "url": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/1.txt"
-    },
+},
 {
       "name": "2",
       "type": 0,
       "ua": "okhttp",
       "url": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/2.txt"
-    },
+},
 {
       "name": "69",
       "type": 0,
       "ua": "okhttp",
       "url": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/file/69.m3u"
-    },
+},
 {
       "name": "Xxx-IPTV",
       "type": 0,
       "ua": "okhttp",
       "url": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/file/Xxx-IPTV.m3u8"
-    },
+},
 {
       "name": "qinav",
       "type": 0,
       "ua": "okhttp",
       "url": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/file/qinav.m3u"
-    },
+},
 {
       "name": "黄豆短剧",
       "type": 0,
       "ua": "okhttp",
       "url": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/file/黄豆短剧.m3u"
-    },
+},
 {
       "name": "twitch",
       "type": 0,
       "ua": "okhttp",
       "url": "https://twitch.445569.xyz/live.m3u"
-    },
+},
 {
       "name": "myrutv",
       "type": 0,
       "ua": "okhttp",
       "url": "http://pl.myrutv.ru/abf8c80d/be273629/tv.m3u"
-    },
+},
       ],
   "ijk": [
     {
