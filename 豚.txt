@@ -2433,8 +2433,16 @@
     "mozai.4gtv.tv",
     "static-mozai.4gtv.tv"
   ],
-  "lives": [
-      ],
+"lives":[
+   {
+      "name": 1,
+      "url": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/1.txt"
+    },
+   {
+      "name": "2",
+      "url": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/2.txt"
+    }
+  ],
   "ijk": [
     {
       "group": "软解码",
