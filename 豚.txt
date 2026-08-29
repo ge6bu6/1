@@ -2442,6 +2442,14 @@
       "name": "2",
       "url": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/2.txt"
     }
+   {
+      "name": "69",
+      "url": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/file/69.m3u"
+    }
+   {
+      "name": "Xxx-IPTV",
+      "url": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/file/Xxx-IPTV.m3u8"
+    }
   ],
   "ijk": [
     {
