@@ -1347,13 +1347,13 @@
       "name": "🐬采集聚合成人.py｜🔞",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/采集聚合成人.py"
-    }
+    },
     {
       "key": "UAA有声",
-      "name": "UAA有声.py｜🔞",
+      "name": "UAA有声｜🔞",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/uaa有声.py"
-    }
+    },
   ],
   "parses": [
     {
