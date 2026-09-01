@@ -1349,12 +1349,6 @@
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/VHUB[成人].py"
     },
     {
-      "key": "MD",
-      "name": "麻豆Al.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/麻豆Al.py"
-    },
-    {
       "key": "采集聚合成人",
       "name": "🐬采集聚合成人.py｜🔞",
       "type": 3,
