@@ -1348,6 +1348,19 @@
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/采集聚合成人.py"
     }
+    {
+			"key": "uaa有声",
+			"name": "🔍uaa有声[py]",
+			"type": 3,
+			"api": "https://gh-proxy.org/https://raw.githubusercontent.com/wanganni/yinshiyuan/main/tv/py/uaa有声.py",
+			"searchable": 1,
+			"quickSearch": 1,
+			"style": {
+				"type": "rect",
+				"ratio": 1.33
+			},
+			"changeable": 1
+		},
   ],
   "parses": [
     {
