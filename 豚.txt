@@ -364,12 +364,6 @@
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/豆花影视.py"
     },
     {
-      "key": "qqvm",
-      "name": "🐬千千影视.py(关梯)(羊壳观看)",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/千千影视.py"
-    },
-    {
       "key": "808yr",
       "name": "🐬808影院.py(关梯)",
       "type": 3,
