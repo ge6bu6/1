@@ -1409,6 +1409,24 @@
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/电视直播.py"
     },
     {
+      "key": "黄果短剧",
+      "name": "黄果短剧.py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/黄果短剧.py"
+    },
+    {
+      "key": "红果",
+      "name": "红果.py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/红果.py"
+    },
+    {
+      "key": "黄豆短剧",
+      "name": "黄豆短剧.py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/黄豆短剧.py"
+    },
+    {
       "key": "采集聚合成人",
       "name": "🐬采集聚合成人.py｜🔞",
       "type": 3,
