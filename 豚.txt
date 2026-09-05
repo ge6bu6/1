@@ -1391,6 +1391,18 @@
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/吞精兽.py"
     },
     {
+      "key": "Av在线观看",
+      "name": "Av在线观看.py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/Av在线观看.py"
+    },
+    {
+      "key": "momo图鉴",
+      "name": "momo图鉴.py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/momo图鉴.py"
+    },
+    {
       "key": "采集聚合成人",
       "name": "🐬采集聚合成人.py｜🔞",
       "type": 3,
