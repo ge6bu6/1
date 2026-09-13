@@ -607,6 +607,12 @@
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/色播聚合.py"
     },
     {
+      "key": "瑟瑟直播",
+      "name": "瑟瑟直播.py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/瑟瑟直播.py"
+    },
+    {
       "key": "stripchat",
       "name": "🐬stripchat直播.py｜🔞",
       "type": 3,
@@ -985,6 +991,18 @@
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/Jable.py"
     },
     {
+      "key": "jabie(2)",
+      "name": "jabie(2).py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/jabie(2).py"
+    },
+    {
+      "key": "jabie(3)",
+      "name": "jabie(3).py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/jabie(3).py"
+    },
+    {
       "key": "AdultpornaAV",
       "name": "🐬AdultpornaAV.py｜🔞",
       "type": 3,
@@ -1184,10 +1202,28 @@
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/一线黑料.py"
     },
     {
-      "key": "wddj",
-      "name": "🐬黄豆短剧.py 有🔞",
+      "key": "ggjav",
+      "name": "ggjav.py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/ggjav.py"
+    },
+    {
+      "key": "黄豆短剧",
+      "name": "黄豆短剧.py｜🔞",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/黄豆短剧.py"
+    },
+    {
+      "key": "qinav",
+      "name": "qinav.py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/qinav.py"
+    },
+    {
+      "key": "小黄书",
+      "name": "小黄书.py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/小黄书.py"
     },
     {
       "key": "汤头条",
