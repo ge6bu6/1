@@ -1534,8 +1534,24 @@
       "url": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/2.txt"
     },
    {
+      "name": "黄果",
+      "url": "https://xjpnmb.pages.dev/live.m3u"
+    },
+   {
+      "name": "综合",
+      "url": "https://live.445569.xyz/live.m3u"
+    },
+   {
       "name": "BunBun",
       "url": "http://nn.7x9d.cn/tv/Bunbun.m3u"
+    },
+   {
+      "name": "Tiktok",
+      "url": "https://tiktok.445569.xyz/live.m3u"
+    },
+   {
+      "name": "大秀",
+      "url": "https://xjpcnm.pages.dev/live.m3u"
     },
    {
       "name": "Twitch",
