@@ -997,12 +997,6 @@
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/jabie(2).py"
     },
     {
-      "key": "jabie(3)",
-      "name": "jabie(3).py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/tuntun/blob/main/py/jabie(3).py"
-    },
-    {
       "key": "AdultpornaAV",
       "name": "🐬AdultpornaAV.py｜🔞",
       "type": 3,
