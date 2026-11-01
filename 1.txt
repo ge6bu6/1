@@ -544,6 +544,18 @@
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/绿果鉴_瑟瑟.py"
     },
     {
+      "key": "绿果鉴_瑟瑟_v2",
+      "name": "绿果鉴_瑟瑟_v2.py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/绿果鉴_瑟瑟_v2.py"
+    },
+    {
+      "key": "聚果鉴",
+      "name": "聚果鉴.py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/聚果鉴.py"
+    },
+    {
       "key": "2048成人短剧",
       "name": "2048成人短剧.py｜🔞",
       "type": 3,
