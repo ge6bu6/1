@@ -16,6 +16,12 @@
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/独播库.py"
     },
     {
+      "key": "全剧得",
+      "name": "全剧得.py",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/全剧得.py"
+    },
+    {
       "key": "hgtv",
       "name": "hgtv.py",
       "type": 3,
@@ -530,6 +536,12 @@
       "name": "huangguo.py｜🔞",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/huangguo.py"
+    },
+    {
+      "key": "橙果短剧",
+      "name": "橙果短剧.py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/橙果短剧.py"
     },
     {
       "key": "黄果漫剧",
