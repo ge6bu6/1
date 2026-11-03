@@ -22,12 +22,6 @@
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/全剧得.py"
     },
     {
-      "key": "hgtv",
-      "name": "hgtv.py",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/hgtv.py"
-    },
-    {
       "key": "剧OK",
       "name": "剧OK.py",
       "type": 3,
@@ -56,12 +50,6 @@
       "name": "果果短剧.py",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/果果短剧.py"
-    },
-    {
-      "key": "红果短剧听书版",
-      "name": "红果短剧听书版.py",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/红果短剧听书版.py"
     },
     {
       "key": "多聚短剧",
