@@ -2233,6 +2233,10 @@
    {
       "name": "B",
       "url": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/B.txt"
+    },
+   {
+      "name": "C",
+      "url": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/C.txt"
     }
   ]
 }
