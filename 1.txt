@@ -520,16 +520,28 @@
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/57短剧.py"
     },
     {
-      "key": "huangguo",
-      "name": "huangguo.py｜🔞",
+      "key": "hghub",
+      "name": "hghub.py｜🔞",
       "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/huangguo.py"
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/hghub.py"
+    },
+    {
+      "key": "橙果",
+      "name": "橙果.py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/橙果.py"
     },
     {
       "key": "橙果短剧",
       "name": "橙果短剧.py｜🔞",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/橙果短剧.py"
+    },
+    {
+      "key": "橙果短剧_2",
+      "name": "橙果短剧_2.py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/橙果短剧_2.py"
     },
     {
       "key": "黄果漫剧",
@@ -566,12 +578,6 @@
       "name": "禁果短剧.py｜🔞",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/禁果短剧.py"
-    },
-    {
-      "key": "橙果",
-      "name": "橙果.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/橙果.py"
     },
     {
       "key": "PTT短剧",
