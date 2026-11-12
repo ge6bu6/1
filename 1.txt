@@ -22,6 +22,12 @@
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/全剧得.py"
     },
     {
+      "key": "影探聚合",
+      "name": "影探聚合.py",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/影探聚合.py"
+    },
+    {
       "key": "剧OK",
       "name": "剧OK.py",
       "type": 3,
