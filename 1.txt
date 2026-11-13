@@ -874,6 +874,12 @@
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/91jav.py"
     },
     {
+      "key": "绯色天际",
+      "name": "绯色天际.py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/绯色天际.py"
+    },
+    {
       "key": "jjavss",
       "name": "jjavss.py｜🔞",
       "type": 3,
