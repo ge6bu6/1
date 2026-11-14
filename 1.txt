@@ -556,6 +556,12 @@
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/黄果漫剧.py"
     },
     {
+      "key": "黄果短剧",
+      "name": "黄果短剧.py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/黄果短剧.py"
+    },
+    {
       "key": "huangguo",
       "name": "huangguo.py｜🔞",
       "type": 3,
@@ -776,6 +782,12 @@
       "name": "qinav.py｜🔞",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/qinav.py"
+    },
+    {
+      "key": "Taiav",
+      "name": "Taiav.py｜🔞",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/Taiav.py"
     },
     {
       "key": "18av主站",
