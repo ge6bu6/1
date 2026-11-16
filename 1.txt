@@ -898,12 +898,6 @@
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/jjavss.py"
     },
     {
-      "key": "巨婴云播",
-      "name": "巨婴云播.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/巨婴云播.py"
-    },
-    {
       "key": "看日片",
       "name": "看日片.py｜🔞",
       "type": 3,
