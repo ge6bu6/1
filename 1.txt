@@ -10,6 +10,12 @@
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/央视频.py"
     },
     {
+      "key": "ysp",
+      "name": "ysp.py",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/ysp.py"
+    },
+    {
       "key": "独播库",
       "name": "独播库.py",
       "type": 3,
@@ -62,6 +68,12 @@
       "name": "多聚短剧.py",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/多聚短剧.py"
+    },
+    {
+      "key": "hongguo",
+      "name": "hongguo.py",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/hongguo.py"
     },
     {
       "key": "喜马拉雅",
