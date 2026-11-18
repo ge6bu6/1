@@ -82,12 +82,6 @@
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/瑟瑟直播.py"
     },
     {
-      "key": "bigboob",
-      "name": "bigboob.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/bigboob.py"
-    },
-    {
       "key": "StripChat",
       "name": "StripChat.py｜🔞",
       "type": 3,
