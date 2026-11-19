@@ -2283,10 +2283,6 @@
       "url": "https://gh-proxy.com/https://github.com/atsushi444/iptv/blob/main/adult.m3u"
     },
    {
-      "name": "list4",
-      "url": "https://gh-proxy.com/https://github.com/atsushi444/iptv/blob/main/vod/list4.m3u"
-    },
-   {
       "name": "A",
       "url": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/A.txt"
     },
