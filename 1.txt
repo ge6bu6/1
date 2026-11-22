@@ -902,12 +902,6 @@
       "name": "暗香阁.py｜🔞",
       "type": 3,
       "api": "https://gh-proxy.org/https://github.com/ge6bu6/1/blob/main/py/暗香阁.py"
-    },
-    {
-      "key": "Px8x",
-      "name": "Px8x.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.org/https://github.com/ge6bu6/1/blob/main/py/Px8x.py"
     }
   ],
 "parses": [
