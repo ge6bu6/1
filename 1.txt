@@ -112,12 +112,6 @@
       "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/yyds直播.py"
     },
     {
-      "key": "123AV",
-      "name": "123AV.py｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/ge6bu6/1/blob/main/py/123AV.py"
-    },
-    {
       "key": "HoHoJ",
       "name": "HoHoJ.py｜🔞",
       "type": 3,
