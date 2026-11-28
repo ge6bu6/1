@@ -154,12 +154,6 @@
       "api": "https://gh-proxy.org/https://github.com/ge6bu6/1/blob/main/py/avtoday.py"
     },
     {
-      "key": "SupJav",
-      "name": "SupJav｜🔞",
-      "type": 3,
-      "api": "https://gh-proxy.org/https://github.com/ge6bu6/1/blob/main/py/SupJav.py"
-    },
-    {
       "key": "javdb",
       "name": "javdb.py｜🔞",
       "type": 3,
